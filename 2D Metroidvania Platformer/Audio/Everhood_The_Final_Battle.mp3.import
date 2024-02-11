@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Everhood_The_Final_Battle.mp3-d1a10cb682a9f83b956466e8e1575eb3.mp3str"
+
+[deps]
+
+source_file="res://Audio/Everhood_The_Final_Battle.mp3"
+dest_files=[ "res://.import/Everhood_The_Final_Battle.mp3-d1a10cb682a9f83b956466e8e1575eb3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

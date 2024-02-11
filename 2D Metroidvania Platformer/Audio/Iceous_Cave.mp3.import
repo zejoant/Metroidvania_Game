@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Iceous_Cave.mp3-150f39d45f804891a59ed55fc0250ebf.mp3str"
+
+[deps]
+
+source_file="res://Audio/Iceous_Cave.mp3"
+dest_files=[ "res://.import/Iceous_Cave.mp3-150f39d45f804891a59ed55fc0250ebf.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
